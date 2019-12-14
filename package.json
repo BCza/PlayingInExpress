@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/BCza/PlayingInExpress#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "eslint": "^6.7.2",
