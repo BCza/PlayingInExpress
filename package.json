@@ -1,0 +1,34 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "Running through tutorial @ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCza/PlayingInExpress.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "bcza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCza/PlayingInExpress/issues"
+  },
+  "homepage": "https://github.com/BCza/PlayingInExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
